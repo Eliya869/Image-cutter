@@ -71,6 +71,8 @@ public class photo_source {
         g2d.drawImage(colorImage, 0, 0, null);
         g2d.dispose();
 
+    // eliya gvili adir bamarom 2025
+
         return grayImage;
     }
 }
